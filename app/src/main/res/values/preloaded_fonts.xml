@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amarante</item>
+        <item>@font/autour_one</item>
+        <item>@font/days_one</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/jockey_one</item>
+        <item>@font/patua_one</item>
+    </array>
+</resources>
